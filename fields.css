@@ -1,0 +1,24 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgba(0, 0, 0, 0.215);
+}
+form {
+  background-color: white;
+  border-radius: 20px;
+  box-shadow: 0 0 2px 5px rgba(0, 0, 0, 0.3);
+}
+#lastname {
+  border: 2px solid red;
+}
+#firstname {
+  border: 2px solid greenyellow;
+}
+#dropdownMenu {
+  background-color: burlywood;
+  color: black;
+}
